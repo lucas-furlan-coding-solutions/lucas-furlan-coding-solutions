@@ -11,7 +11,7 @@ I'm a **Software Architect** and **Full Stack Developer** with extensive experie
   - **Languages & Frameworks:** Node.js, React, Angular, Flutter, Java, .NET  
   - **Databases:** SQL Server, PostgreSQL  
   - **Tools & Platforms:** Docker, Docker-Compose, Azure, CI/CD pipelines, NGINX, Linux
-- 💞️ **Looking to Collaborate On:** Open-source projects, tech startups, and challenging software architecture tasks. 
+- 💞️ **I am seeking paid projects and opportunities that align with my professional profile and areas of expertise. My company is available to provide services within my specialization. 
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun Fact:** I'm the sole employee of my company, and I love it that way because it keeps things flexible and creative!
 
