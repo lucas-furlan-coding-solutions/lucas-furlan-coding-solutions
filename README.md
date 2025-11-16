@@ -1,18 +1,23 @@
-# 👋 Hi, I’m Lucas Furlan!
+👋 Olá, eu sou o Lucas Furlan!
 
-I'm a **Software Architect** and **Full Stack Developer** with extensive experience building end-to-end solutions, including **mobile**, **front-end**, **back-end**, **database management**, and **DevOps**. I run my own tech company, where I bring innovative ideas to life with cutting-edge technologies.
+Sou Arquiteto de Software e Desenvolvedor Full Stack com ampla experiência na criação de soluções completas — desde aplicações mobile, front-end e back-end, até bancos de dados e DevOps. Atualmente atuo através da minha própria empresa, onde transformo ideias em projetos reais utilizando tecnologias modernas e eficientes.
 
----
+🌟 Sobre Mim
 
-### 🌟 About Me
-- 👀 **Interests:** Solving complex problems, designing scalable systems, and exploring new tech trends. 
-- 🌱 **Currently Learning:** Exploring advanced DevOps tools and refining architecture practices for cloud-native applications.
-- 💼 **Tech Stack:**  
-  - **Languages & Frameworks:** Node.js, Angular, Flutter, Dart, Java, .NET  
-  - **Databases:** SQL Server, PostgreSQL  
-  - **Tools & Platforms:** Docker, Docker-Compose, Azure, AWS, Kubernets (K3S, Ingress-router, Ingress-controller, traefik), CI/CD, NGINX, VPS, Linux
-- 💞️ **Looking to Collaborate On:** I am seeking paid projects and opportunities that align with my professional profile and areas of expertise. My company is available to provide services within my specialization. 
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun Fact:** I'm the sole employee of my company, and I love it that way because it keeps things flexible and creative!
+👀 Interesses: Resolver problemas complexos, projetar sistemas escaláveis e explorar novas tendências tecnológicas.
 
----
+🌱 Aprendendo no Momento: Aprofundando conhecimentos em ferramentas avançadas de DevOps e boas práticas de arquitetura para aplicações cloud-native.
+
+💼 Stack Tecnológica:
+
+Linguagens & Frameworks: Node.js, Angular, Flutter, Dart, Java, .NET
+
+Bancos de Dados: SQL Server, PostgreSQL
+
+Ferramentas & Plataformas: Docker, Docker-Compose, Azure, AWS, Kubernetes (K3S, Ingress-Router, Ingress-Controller, Traefik), CI/CD, NGINX, VPS, Linux
+
+💰 Oportunidades: Busco projetos e trabalhos remunerados alinhados ao meu perfil profissional e às áreas em que atuo. Minha empresa está disponível para prestar serviços conforme minhas especialidades.
+
+😄 Pronomes: Ele/Dele
+
+⚡ Curiosidade: Sou o único colaborador da minha empresa — e adoro isso, porque me dá autonomia, flexibilidade e espaço para ser criativo.
