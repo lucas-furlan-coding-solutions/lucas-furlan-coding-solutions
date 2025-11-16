@@ -6,7 +6,7 @@ Sou Arquiteto de Software e Desenvolvedor Full Stack com ampla experiência na c
 
 👀 Interesses: Resolver problemas complexos, projetar sistemas escaláveis e explorar novas tendências tecnológicas.
 
-🌱 Aprendendo no Momento: Aprofundando conhecimentos em ferramentas avançadas de DevOps e boas práticas de arquitetura para aplicações cloud-native.
+🌱 Aprendendo no Momento: Aprofundando conhecimentos em ferramentas avançadas de DevOps e boas práticas de arquitetura para aplicações cloud-native e também atuando na renovação de sistemas legados.
 
 💼 Stack Tecnológica:
 
